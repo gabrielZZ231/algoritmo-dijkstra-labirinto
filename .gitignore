@@ -27,3 +27,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Arquivos e diretórios adicionais ###
+*.log
+*.tmp
+*.swp
+*.bak
+*.class
+*.iml
+.idea/
+target/
+build/
